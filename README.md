@@ -1,6 +1,8 @@
 # GG-ApiDesignGuide
 A Translation of google api design guide.
 
+origin posts URL: https://cloud.google.com/apis/design/resources
+
 # detail in issues:
 step by step as flow list(via: google api design guide):
 
